@@ -20,7 +20,7 @@
       <div class="row">
         <div class="col">
           <h3 class="text-muted">Exercise 1 Example</h3>
-          <h4 class="text-muted">Twitter cURL API</h4>
+          <h4 class="text-muted">Spotify</h4>
         </div>
         <div class="col">
           <p>
