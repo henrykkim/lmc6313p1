@@ -1,0 +1,23 @@
+/* Included Lato Google Font for headers */
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400');
+
+body {
+  padding-bottom: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.lato {
+  font-family: 'Lato', sans-serif;
+}
+
+/* Custom Media Rule to narrow Navbar content on large screens */
+@media (min-width: 992px) {
+  .custom-width {
+    padding: 0 12%;
+  }
+}
