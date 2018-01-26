@@ -33,8 +33,8 @@
         ini_set("display_errors", 1);
 
         // PLEASE get your own API/OAuth Key
-        $client_id = 'ac13bc52b14643a6b286438b081fcfe9'; 
-        $client_secret = '4d7571190d0948619bbbf4e5ca451395';
+        $client_id = '97cceb1c246a419e928c11fe96240e48'; 
+        $client_secret = '5d02dc41c78a4c60bb32dde775a6479b';
         $token = null;
 
         $host = 'https://api.spotify.com';
