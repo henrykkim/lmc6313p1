@@ -24,7 +24,7 @@
         </div>
         <div class="col">
           <p>
-            This example pulls data from the <a href="https://developer.twitter.com/en/docs">Twitter API</a>, then displays my (Pierce's) most recent tweet
+            This example pulls data from the Spotify API.
           </p>
         </div>
       </div>
