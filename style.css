@@ -1,0 +1,32 @@
+/* Included Lato Google Font for headers */
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body {
+  padding-bottom: 20px;
+}
+
+.albumart {
+  margin-top: 2rem;
+}
+
+.title {
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  font-family: 'Oswald', sans-serif;
+}
+
+.funfact {
+  font-family: 'Oswald', sans-serif;
+}
+
+.subtitle {
+  font-weight: lighter;
+  font-size: 10pt;
+}
+
+/* Custom Media Rule to narrow Navbar content on large screens */
+@media (min-width: 992px) {
+  .custom-width {
+    padding: 0 12%;
+  }
+}
